@@ -20,6 +20,7 @@ Each project folder follows a similar structure:
 
 - Data: Contains the datasets used for analysis
 - Notebooks: Jupyter notebooks with detailed analysis and explanations.
+- Power BI file: Data Visualization Dashboards (if any)
 - Readme: Detailed description of the project, including objectives, methodologies, and results.
 
 ### For More Information
