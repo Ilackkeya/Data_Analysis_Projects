@@ -24,7 +24,7 @@ The synthetic dataset provides a comprehensive array of features relevant to hea
   
   ![image](https://github.com/Ilackkeya/Heart_Attack_Risk_Prediction_Analysis/assets/66105814/5f575a64-93bc-4e18-8dd2-7b5cc9a7f87f)
 
-- Predicitive Analytics - Employed Logistic Regression model to predict the heart attack risk as a binary outcome.
+- Predictive Analytics - Employed Logistic Regression model to predict the heart attack risk as a binary outcome.
 
 ### For More Information
 Contact Ilackkeya Bhavananthi bsilackkeya21@gmail.com or [LinkedIn](https://www.linkedin.com/in/ilackkeya/)
