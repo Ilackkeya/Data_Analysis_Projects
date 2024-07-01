@@ -28,5 +28,5 @@ Feel free to reach out if you have any questions or would like to collaborate on
 
 You can contact me via:
 
-- [Email](bsilackkeya21@gmail.com)
+- Email: bsilackkeya21@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ilackkeya/)
