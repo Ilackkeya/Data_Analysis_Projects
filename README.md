@@ -4,6 +4,7 @@
 Heart attacks, or myocardial infarctions, continue to be a significant global health issue, necessitating a deeper comprehension of their precursors and potential mitigating factors. By employing predictive analytics on the patient's dataset encapsulating a wide range of attributes including age, cholesterol levels, blood pressure, smoking habits, exercise patterns, dietary preferences, and more, can be used to elucidate the complex interplay of these variables in determining the likelihood of a heart attack which can further help researchers and healthcare professionals to work towards proactive strategies for heart disease prevention and management. 
 
 ### Source 
+
 [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data)
 
 #### Description of the Dataset
@@ -14,14 +15,14 @@ The synthetic dataset provides a comprehensive array of features relevant to hea
 
 ### Dependencies
 
-Python libraries: pandas, numpy, matplotlib, seaborn, sci-kit learn
-PowerBI - Visualization
+- Python libraries: pandas, numpy, matplotlib, seaborn, sci-kit learn
+- PowerBI - Visualization
 
 ### Workflow
 - Data Ingestion and Pre-processing
 - Data Visualization - Preliminary visualization using Python matplotlib library and Dashboard visualization using PowerBI
   
-  ![image](https://github.com/Ilackkeya/Heart_Attack_Risk_Prediction_Analysis/assets/66105814/743c2f73-8953-405f-91f8-f30c7975eea3)
+  ![image](https://github.com/Ilackkeya/Heart_Attack_Risk_Prediction_Analysis/assets/66105814/5f575a64-93bc-4e18-8dd2-7b5cc9a7f87f)
 
 - Predicitive Analytics - Employed Logistic Regression model to predict the heart attack risk as a binary outcome.
 
